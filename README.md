@@ -1,3 +1,10 @@
+#notice: 
+
+some extra function are added in this repo of origin swift. 
+We generate a new role named 'superadmin', who can get/head/put any object in any container of any account.
+superadmin only become effective when the zeda-swiftclient is used.
+The modification of code focus on the authentication parts in proxy service.
+
 # Swift
 
 A distributed object storage system designed to scale from a single machine
